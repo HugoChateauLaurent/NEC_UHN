@@ -1,2 +1,2 @@
 # NEC_UHN
-Code for neural episodic control with universal Hopfield networks.
+The code for neural episodic control with universal Hopfield networks will soon become available.
